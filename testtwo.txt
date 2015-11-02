@@ -1,4 +1,3 @@
-one two three
-a b c
-mallory seth
-ohio state university and capital university
+:q
+
+ohio state university and capital university Columbus:\q
